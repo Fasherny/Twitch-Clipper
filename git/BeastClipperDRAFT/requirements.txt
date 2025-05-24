@@ -1,0 +1,30 @@
+# Core GUI Framework
+PyQt5>=5.15.0
+
+# Video Processing
+opencv-python>=4.8.0,<4.10.0  # Updated from pinned 4.9.0.80
+numpy>=1.21.0,<2.0.0
+ffmpeg-python>=0.2.0  # Added for improved segmented recording
+
+# Browser Automation (for chat monitoring)
+selenium>=4.15.0,<5.0.0  # Updated from 4.16.0
+webdriver-manager>=4.0.0  # NEW - Auto-manages ChromeDriver
+
+# System & Network
+psutil>=5.9.0
+requests>=2.31.0
+requests-toolbelt>=1.0.0
+
+# File Management
+send2trash>=1.8.0
+
+# Streaming
+streamlink>=6.5.0
+yt-dlp>=2023.12.30  # Updated from 2023.3.4
+
+# Analytics & Signal Processing
+matplotlib>=3.5.0
+scipy>=1.7.0
+
+# Additional Dependencies (optional but recommended)
+Pillow>=9.0.0  # Image processing (used by some PyQt5 features)

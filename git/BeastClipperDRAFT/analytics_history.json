@@ -1,0 +1,675 @@
+{
+  "sessions": [
+    {
+      "timestamp": 1747975049.4611602,
+      "summary": {
+        "session_duration_minutes": 16.347862335046134,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1747976768.227549,
+      "summary": {
+        "session_duration_minutes": 10.610157140096028,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1747978316.272306,
+      "summary": {
+        "session_duration_minutes": 0.09468771616617838,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1747978324.0978346,
+      "summary": {
+        "session_duration_minutes": 0.12204027970631917,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1747978333.9544742,
+      "summary": {
+        "session_duration_minutes": 0.3839911659558614,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1747978386.6785562,
+      "summary": {
+        "session_duration_minutes": 0.42713462114334105,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748009663.3946736,
+      "summary": {
+        "session_duration_minutes": 0.4485269586245219,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748009700.1286435,
+      "summary": {
+        "session_duration_minutes": 0.6641172846158345,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748011337.4442494,
+      "summary": {
+        "session_duration_minutes": 6.8009576598803205,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748011747.4331782,
+      "summary": {
+        "session_duration_minutes": 3.9198161005973815,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748011984.486141,
+      "summary": {
+        "session_duration_minutes": 0.07682087421417236,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748012678.2191048,
+      "summary": {
+        "session_duration_minutes": 0.327281125386556,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748012722.5130694,
+      "summary": {
+        "session_duration_minutes": 0.5776513258616129,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748012858.455224,
+      "summary": {
+        "session_duration_minutes": 7.75151762564977,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748013325.535033,
+      "summary": {
+        "session_duration_minutes": 1.7158577640851338,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748039111.0314758,
+      "summary": {
+        "session_duration_minutes": 3.4266523718833923,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748039514.209441,
+      "summary": {
+        "session_duration_minutes": 1.2324039657910666,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748040027.0272698,
+      "summary": {
+        "session_duration_minutes": 0.5430612683296203,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748040481.021133,
+      "summary": {
+        "session_duration_minutes": 9.342122813065847,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748041312.1450102,
+      "summary": {
+        "session_duration_minutes": 0.7987762649854024,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748042096.642404,
+      "summary": {
+        "session_duration_minutes": 0.6470173001289368,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748042222.76739,
+      "summary": {
+        "session_duration_minutes": 0.03240478038787842,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748043034.1802034,
+      "summary": {
+        "session_duration_minutes": 2.231081712245941,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748043722.4023266,
+      "summary": {
+        "session_duration_minutes": 2.8676202019055683,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748056645.2234998,
+      "summary": {
+        "session_duration_minutes": 0.952727222442627,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748057358.3337507,
+      "summary": {
+        "session_duration_minutes": 4.8768057346344,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    },
+    {
+      "timestamp": 1748058351.0109541,
+      "summary": {
+        "session_duration_minutes": 0.4451444705327352,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
+    }
+  ],
+  "lifetime_detections": 0,
+  "lifetime_clips": 0,
+  "best_session": {
+    "session_duration_minutes": 16.347862335046134,
+    "total_detections": 0,
+    "clips_created": 0,
+    "detection_rate_per_hour": 0.0,
+    "clip_conversion_rate": 0.0,
+    "real_time_metrics": {
+      "current_detection_rate": 0.0,
+      "average_confidence": 0.0,
+      "success_rate": 0.0,
+      "context_distribution": {},
+      "signal_quality": {
+        "chat": 0.0,
+        "video": 0.0,
+        "social": 0.0
+      }
+    },
+    "context_performance": {},
+    "signal_effectiveness": {}
+  },
+  "learning_data": {}
+}
