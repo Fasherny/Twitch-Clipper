@@ -335,15 +335,18 @@ class StreamBuffer(QThread):
         try:
             segment_file = os.path.join(self.temp_dir, f"segment_{self.segment_index:05d}.ts")
             
-            # FFmpeg command to record one segment
+            # FFmpeg command to record one segment with proper audio handling
             ffmpeg_cmd = [
                 FFMPEG_PATH,
                 "-hide_banner",
-                "-loglevel", "error",
+                "-loglevel", "warning",
                 "-i", self.current_stream_url,
                 "-t", str(self.segment_length),
-                "-c", "copy",
-                "-bsf:a", "aac_adtstoasc",
+                "-c:v", "copy",
+                "-c:a", "aac",  # Re-encode audio to ensure compatibility
+                "-b:a", "128k",  # Set audio bitrate
+                "-ac", "2",      # Ensure stereo audio
+                "-ar", "44100",  # Set audio sample rate
                 "-f", "mpegts",
                 "-y",
                 segment_file
@@ -659,14 +662,19 @@ class ClipCreator(QThread):
             
             self.progress_update.emit(10)
             
-            # Build FFmpeg command
+            # Build FFmpeg command with proper audio handling
             cmd = [
                 FFMPEG_PATH, "-y",
                 "-f", "concat",
                 "-safe", "0",
                 "-i", temp_list_path,
-                "-c:v", "copy",
-                "-c:a", "copy"
+                "-c:v", "libx264",  # Re-encode video for compatibility
+                "-preset", "fast",
+                "-crf", "23",
+                "-c:a", "aac",      # Ensure AAC audio
+                "-b:a", "128k",     # Set audio bitrate
+                "-ac", "2",         # Stereo audio
+                "-ar", "44100"      # Audio sample rate
             ]
             
             # Add format-specific options
