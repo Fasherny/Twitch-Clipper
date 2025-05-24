@@ -89,6 +89,11 @@ class BeastClipperApp(QMainWindow):
         self.learning_system = LearningSystem(self.config_manager)
         self.external_validator = ExternalValidationSystem()
         
+        # Sensitivity debouncing timer
+        self.sensitivity_timer = QTimer()
+        self.sensitivity_timer.setSingleShot(True)
+        self.sensitivity_timer.timeout.connect(self._apply_sensitivity_change)
+        
         # Enhanced moment manager with analytics
         self.moment_manager = EnhancedViralMomentManager(max_moments=20)
         
@@ -649,7 +654,7 @@ class BeastClipperApp(QMainWindow):
         self.sensitivity_slider = QSlider(Qt.Horizontal)
         self.sensitivity_slider.setRange(10, 90)
         self.sensitivity_slider.setValue(70)
-        self.sensitivity_slider.valueChanged.connect(self.update_enhanced_sensitivity)
+        self.sensitivity_slider.valueChanged.connect(self._on_sensitivity_slider_changed)
         sensitivity_layout.addWidget(self.sensitivity_slider)
         
         self.sensitivity_value = QLabel("70%")
@@ -2019,6 +2024,17 @@ class BeastClipperApp(QMainWindow):
             self.log_info("Content resumed - recording active")
         else:
             self.ad_status_label.setStyleSheet("color: #2196F3; font-weight: bold;")
+
+    def _on_sensitivity_slider_changed(self, value):
+        """Handle sensitivity slider change with debouncing."""
+        self.sensitivity_value.setText(f"{value}%")
+        self.sensitivity_timer.stop()
+        self.sensitivity_timer.start(500)  # Wait 500ms after user stops
+    
+    def _apply_sensitivity_change(self):
+        """Apply the sensitivity change after debounce period."""
+        value = self.sensitivity_slider.value()
+        self.update_enhanced_sensitivity(value)
 
 
 # Enhanced viral moment manager

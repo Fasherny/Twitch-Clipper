@@ -47,6 +47,30 @@
         "signal_effectiveness": {}
       },
       "detections": []
+    },
+    {
+      "timestamp": 1748061443.4599123,
+      "summary": {
+        "session_duration_minutes": 6.000713821252187,
+        "total_detections": 0,
+        "clips_created": 0,
+        "detection_rate_per_hour": 0.0,
+        "clip_conversion_rate": 0.0,
+        "real_time_metrics": {
+          "current_detection_rate": 0.0,
+          "average_confidence": 0.0,
+          "success_rate": 0.0,
+          "context_distribution": {},
+          "signal_quality": {
+            "chat": 0.0,
+            "video": 0.0,
+            "social": 0.0
+          }
+        },
+        "context_performance": {},
+        "signal_effectiveness": {}
+      },
+      "detections": []
     }
   ],
   "lifetime_detections": 0,
