@@ -187,6 +187,11 @@ class TwitchChatViralDetector(QThread):
         options.add_experimental_option('useAutomationExtension', False)
         options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
         
+        # Additional anti-detection arguments
+        options.add_argument("--disable-extensions")
+        options.add_argument("--no-first-run")
+        options.add_argument("--disable-default-apps")
+        
         self.driver = webdriver.Chrome(options=options)
         
         # Make it harder to detect
