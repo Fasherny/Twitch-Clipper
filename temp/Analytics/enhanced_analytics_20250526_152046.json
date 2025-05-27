@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-05-26T15:20:46.781537",
+  "session_summary": {
+    "session_duration_minutes": 120.08611311515172,
+    "total_detections": 0,
+    "clips_created": 0,
+    "detection_rate_per_hour": 0.0,
+    "clip_conversion_rate": 0.0,
+    "real_time_metrics": {
+      "current_detection_rate": 0.0,
+      "average_confidence": 0.0,
+      "success_rate": 0.0,
+      "context_distribution": {},
+      "signal_quality": {
+        "chat": 0.0,
+        "video": 0.0,
+        "social": 0.0
+      }
+    },
+    "context_performance": {},
+    "signal_effectiveness": {}
+  },
+  "performance_metrics": {
+    "signals_processed": 55,
+    "moments_detected": 0,
+    "false_positives": 0,
+    "avg_processing_time": 0.0,
+    "signal_quality": {
+      "chat": 0.0,
+      "video": 0.0,
+      "social": 0.0
+    }
+  },
+  "learning_insights": [
+    "Most important signal: chat_score (0.50)",
+    "Learning context patterns - insufficient data yet",
+    "Analyzing optimal detection times - need more data"
+  ],
+  "recent_moments": []
+}
